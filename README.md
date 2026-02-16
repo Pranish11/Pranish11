@@ -27,7 +27,7 @@ const pranish = {
 
 <div align="center">
   
-### 🎯 Currently Learning & Exploring
+### Currently Learning & Exploring
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400">
 
@@ -35,7 +35,7 @@ const pranish = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -57,7 +57,7 @@ const pranish = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -66,25 +66,9 @@ const pranish = {
 
 </div>
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranish11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-
-</div>
-
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pranish11&repo=YOUR_REPO_NAME&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E)](https://github.com/Pranish11/YOUR_REPO_NAME)
-
-</div>
-
----
-
-## 🎨 Activity Graph
+## Activity Graph
 
 <div align="center">
   
@@ -94,21 +78,7 @@ const pranish = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranish11/Pranish11/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranish11/Pranish11/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pranish11/Pranish11/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-## 💌 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
@@ -135,7 +105,7 @@ const pranish = {
 
 <img src="https://komarev.com/ghpvc/?username=Pranish11&color=F75C7E&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
-### ⭐ Show some love by starring some repositories!
+### Show some love by starring some repositories!
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
@@ -145,7 +115,7 @@ const pranish = {
 
 <div align="center">
   
-**✨ Made with 💖 by Pranish Dhital**
+**Made with 💖 by Pranish Dhital**
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
