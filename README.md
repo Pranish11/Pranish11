@@ -1,60 +1,90 @@
-<h1 align="center">✨ Hi, I'm Pranish Dhital ✨</h1>
+iv align="center">
+👋 Hi there, I'm Pranish Dhital!
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%8C%9F;Bachelor's+Degree+Student+%F0%9F%8E%93;Always+Learning+New+Things+%F0%9F%9A%80;Let's+Build+Something+Amazing!+%F0%9F%92%BB" alt="Typing SVG" />
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-<p align="center">
-  💻 C++ Learner | 🎮 Game Developer in Progress | 🚀 Future Software Engineer  
-</p>
+🌸 About Me
+typescriptconst pranish = {
+    name: "Pranish Dhital",
+    location: "Nepal 🇳🇵",
+    education: "Bachelor's Degree Student 🎓",
+    interests: ["Coding 💻", "Learning 📚", "Building Cool Stuff 🚀"],
+    currentFocus: "Growing my skills every single day! 🌱",
+    funFact: "I turn coffee into code ☕→💻"
+};
+<div align="center">
+🎯 Currently Learning & Exploring
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400">
+</div>
 
----
+🛠️ Tech Stack
+<div align="center">
+Languages
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Tools & Technologies
+Show Image
+Show Image
+Show Image
+Show Image
+</div>
 
-## 🌸 About Me
+📊 GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak" height="170"/>
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E" alt="Top Languages" height="170"/>
+</div>
 
-- 🎓 Student passionate about programming  
-- 💻 Currently learning **C++** and building small projects  
-- 🎮 Interested in **Game Development (SFML / Godot)**  
-- 🌱 Planning to learn Python next  
-- 🧠 Love coding + Minecraft  
+🌟 Featured Projects
+<div align="center">
+Show Image
+</div>
 
----
+🎨 Activity Graph
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
 
-## 🛠️ Tech Stack
+🐍 Contribution Snake
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
 
-💙 Languages:
-- C++
-- HTML
-- CSS
-- JavaScript (basic)
+💌 Let's Connect!
+<div align="center">
+Show Image
+Show Image
+Show Image
+Show Image
+</div>
 
-🎮 Tools:
-- VS Code
-- Git & GitHub
-- Godot Engine
-- SFML
+<div align="center">
+💭 Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
 
----
+<div align="center">
+👀 Profile Views
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=F75C7E&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+⭐ Show some love by starring some repositories!
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+</div>
 
-## 🌟 Current Goals
-
-- 🔥 Finish mastering C++
-- 🎮 Build my first full game
-- 📂 Upload more projects consistently
-- 🚀 Become a strong developer
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranishdhital&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🌈 Fun Fact
-
-> I turn caffeine ☕ into code 💻
-
----
-
-<p align="center">
-  ✨ Thanks for visiting my profile ✨  
-</p>
+<div align="center">
+✨ Made with 💖 by Pranish Dhital
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</div>
