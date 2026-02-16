@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi there, I'm Pranish Dhital! 
+# Hi there, I'm Pranish Dhital! 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%8C%9F;Bachelor's+Degree+Student+%F0%9F%8E%93;Always+Learning+New+Things+%F0%9F%9A%80;Let's+Build+Something+Amazing!+%F0%9F%92%BB" alt="Typing SVG" />
 
@@ -12,16 +12,16 @@
 
 ---
 
-## 🌸 About Me
+## About Me
 
 ```typescript
 const pranish = {
     name: "Pranish Dhital",
-    location: "Nepal 🇳🇵",
-    education: "Bachelor's Degree Student 🎓",
-    interests: ["Coding 💻", "Learning 📚", "Building Cool Stuff 🚀"],
-    currentFocus: "Growing my skills every single day! 🌱",
-    funFact: "I turn coffee into code ☕→💻"
+    location: "Home",
+    education: "Bachelor's Degree Student ",
+    interests: ["Coding ", "Learning ", "Building Cool Stuff "],
+    currentFocus: "Growing my skills every single day! ",
+    funFact: "I turn coffee into code "
 };
 ```
 
