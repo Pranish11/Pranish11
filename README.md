@@ -18,10 +18,10 @@
 const pranish = {
     name: "Pranish Dhital",
     location: "Home",
-    education: "Bachelor's Degree Student ",
-    interests: ["Coding ", "Learning ", "Building Cool Stuff "],
-    currentFocus: "Growing my skills every single day! ",
-    funFact: "I turn coffee into code "
+    education: "currently a Bachelor's Degree Student ",
+    interests: ["Coding ", "Learning ", "Hopefully Building Cool Stuff "],
+    currentFocus: "Growing my skills every single day while doing your MOM! ",
+    funFact: "I do your MOM everyday "
 };
 ```
 
