@@ -15,14 +15,10 @@
 ## About Me
 
 ```typescript
-const pranish = {
-    name: "Pranish Dhital",
-    location: "Home",
-    education: "currently a Bachelor's Degree Student ",
-    interests: ["Coding ", "Learning ", "Hopefully Building Cool Stuff "],
-    currentFocus: "Growing my skills every single day while doing your MOM! ",
-    funFact: "I do your MOM everyday "
-};
+    Name: "Pranish Dhital",
+    Location: "Home",
+    Education: "currently a Bachelor's Degree Student ",
+    Interests: ["Coding ", "Learning ", "Hopefully Building Cool Stuff "],
 ```
 
 <div align="center">
