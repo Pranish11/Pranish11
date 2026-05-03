@@ -15,10 +15,10 @@
 ## About Me
 
 ```typescript
-    Name: "Pranish Dhital",
-    Location: "Home",
-    Education: "currently a Bachelor's Degree Student ",
-    Interests: ["Coding ", "Learning ", "Hopefully Building Cool Stuff "],
+    Name: Pranish Dhital
+    Location: Home
+    Education: Currently a Bachelor's Degree Student 
+    Interests: Coding , Learning, Gaming
 ```
 
 <div align="center">
@@ -46,7 +46,6 @@
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 </div>
